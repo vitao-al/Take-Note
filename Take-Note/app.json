@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Take-Note",
+    "slug": "Take-Note",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-notas2.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7f8f2",
+      "heigth": "50px",
+      "width": "50px"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
