@@ -6,13 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAUOPiQHyxJuW6zsUQIHoHtmU-PrSvEUiQ",
-  authDomain: "takenote-dbea0.firebaseapp.com",
-  projectId: "takenote-dbea0",
-  storageBucket: "takenote-dbea0.appspot.com",
-  messagingSenderId: "719818880756",
-  appId: "1:719818880756:web:06425dbd0a3e4a173d10a1",
-  measurementId: "G-G2D4V3999X"
+  /*Credenciais do seu Firebase*/
 };
 
 // Initialize Firebase
